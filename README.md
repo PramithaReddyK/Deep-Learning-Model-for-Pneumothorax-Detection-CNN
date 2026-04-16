@@ -1,4 +1,4 @@
-# AI-Powered Pneumothorax Detection Using Machine Learning & Deep Learning
+# Deep Learning Model for Pneumothorax Detection CNN
 
 ## Project Overview
 This project focuses on building a predictive analytics solution to detect pneumothorax (lung collapse) from medical imaging data using advanced machine learning and deep learning techniques. The goal is to develop a model capable of accurately identifying the presence and location of pneumothorax from chest X-ray images, supporting early diagnosis and improving clinical decision-making.
